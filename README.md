@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME: K.Jhansi</H3>
+<H3>ENTER YOUR REGISTER NO: 212221230045</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
@@ -54,7 +54,7 @@ print("The most likely sequence of weather state is:", most_likely_sequence)
 
 ```
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Ex-4--AAI/blob/main/ex-4-out.png)
 
 ## Result:
 Thus Hidden Markov Model is implemented using python.
